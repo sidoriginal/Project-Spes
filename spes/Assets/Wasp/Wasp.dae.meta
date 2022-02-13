@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 86ace984451a9574e8d04bd68fd626e3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wasp_Back_Hair_Group63592
+    100004: Wasp_Body_Group16010
+    100006: Wasp_Eyes_Group58120
+    100008: Wasp_Forehead_Group65013
+    100010: Wasp_Forehead_Hair_Group18825
+    100012: Wasp_Forehead_Hair_Group47061
+    100014: Wasp_Forehead_Hair_Group57061
+    100016: Wasp_Head_Group58149
+    100018: Wasp_Legs_Group10353
+    100020: Wasp_Teeth_Group787
+    100022: Wasp_Wings_Group19592
+    400000: //RootNode
+    400002: Wasp_Back_Hair_Group63592
+    400004: Wasp_Body_Group16010
+    400006: Wasp_Eyes_Group58120
+    400008: Wasp_Forehead_Group65013
+    400010: Wasp_Forehead_Hair_Group18825
+    400012: Wasp_Forehead_Hair_Group47061
+    400014: Wasp_Forehead_Hair_Group57061
+    400016: Wasp_Head_Group58149
+    400018: Wasp_Legs_Group10353
+    400020: Wasp_Teeth_Group787
+    400022: Wasp_Wings_Group19592
+    2100000: Wasp_Body_defaultMat1
+    2100002: Wasp_Head_defaultMat1
+    2100004: lambert1
+    2100006: Wasp_Teeth_defaultMat1
+    2100008: Wasp_Legs_defaultMat1
+    2100010: Wasp_Eyes_defaultMat1
+    2100012: blinn1
+    2300000: Wasp_Back_Hair_Group63592
+    2300002: Wasp_Body_Group16010
+    2300004: Wasp_Eyes_Group58120
+    2300006: Wasp_Forehead_Group65013
+    2300008: Wasp_Forehead_Hair_Group18825
+    2300010: Wasp_Forehead_Hair_Group47061
+    2300012: Wasp_Forehead_Hair_Group57061
+    2300014: Wasp_Head_Group58149
+    2300016: Wasp_Legs_Group10353
+    2300018: Wasp_Teeth_Group787
+    2300020: Wasp_Wings_Group19592
+    3300000: Wasp_Back_Hair_Group63592
+    3300002: Wasp_Body_Group16010
+    3300004: Wasp_Eyes_Group58120
+    3300006: Wasp_Forehead_Group65013
+    3300008: Wasp_Forehead_Hair_Group18825
+    3300010: Wasp_Forehead_Hair_Group47061
+    3300012: Wasp_Forehead_Hair_Group57061
+    3300014: Wasp_Head_Group58149
+    3300016: Wasp_Legs_Group10353
+    3300018: Wasp_Teeth_Group787
+    3300020: Wasp_Wings_Group19592
+    4300000: Wasp_Body_Group16010
+    4300002: Wasp_Head_Group58149
+    4300004: Wasp_Back_Hair_Group63592
+    4300006: Wasp_Teeth_Group787
+    4300008: Wasp_Forehead_Group65013
+    4300010: Wasp_Legs_Group10353
+    4300012: Wasp_Forehead_Hair_Group47061
+    4300014: Wasp_Forehead_Hair_Group57061
+    4300016: Wasp_Forehead_Hair_Group18825
+    4300018: Wasp_Eyes_Group58120
+    4300020: Wasp_Wings_Group19592
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wasp_Body_defaultMat1
+    second: {fileID: 2100000, guid: 42caffe1132386f4daa037a9663088b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wasp_Eyes_defaultMat1
+    second: {fileID: 2100000, guid: 66c05709e04ed42a3a537ad26aca9cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wasp_Head_defaultMat1
+    second: {fileID: 2100000, guid: 42caffe1132386f4daa037a9663088b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wasp_Legs_defaultMat1
+    second: {fileID: 2100000, guid: a6c5db515b4e26a468041e9e22e41af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wasp_Teeth_defaultMat1
+    second: {fileID: 2100000, guid: 66c05709e04ed42a3a537ad26aca9cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 42caffe1132386f4daa037a9663088b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 66c05709e04ed42a3a537ad26aca9cb8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Wasp_Wings_Group19592
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
